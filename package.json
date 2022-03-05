@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/AlisonLSL-97/graphql-tutorial/issues"
   },
-  "homepage": "https://github.com/AlisonLSL-97/graphql-tutorial#readme"
+  "homepage": "https://github.com/AlisonLSL-97/graphql-tutorial#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "apollo-server": "^3.6.3",
+    "graphql": "^15.8.0",
+    "nexus": "^1.2.0"
+  }
 }
